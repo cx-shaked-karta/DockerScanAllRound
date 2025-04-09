@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("goat-nuget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc7ce41d4e935debbcc7414f8d88fe1f4fa8be76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859ce6142aa578bc3b78b2554508c31a1c1e8af8")]
 [assembly: System.Reflection.AssemblyProductAttribute("goat-nuget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("goat-nuget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

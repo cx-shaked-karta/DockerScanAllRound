@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shakedkarta/Documents/GitHub/DockerScanAllRound/src/goat-nuget.csproj": {}
+  },
+  "projects": {
+    "/Users/shakedkarta/Documents/GitHub/DockerScanAllRound/src/goat-nuget.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shakedkarta/Documents/GitHub/DockerScanAllRound/src/goat-nuget.csproj",
+        "projectName": "goat-nuget",
+        "projectPath": "/Users/shakedkarta/Documents/GitHub/DockerScanAllRound/src/goat-nuget.csproj",
+        "packagesPath": "/Users/shakedkarta/.nuget/packages/",
+        "outputPath": "/Users/shakedkarta/Documents/GitHub/DockerScanAllRound/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shakedkarta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://checkmarx.jfrog.io/artifactory/api/nuget/containers-nuget/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MessagePack": {
+              "target": "Package",
+              "version": "[1.7.3.4, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Server.HttpSys": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Server.IIS": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "SocketIoClientDotNet": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "System.IO.Pipelines": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Private.Uri": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.RegularExpressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

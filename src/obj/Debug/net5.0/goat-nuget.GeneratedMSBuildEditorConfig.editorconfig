@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = goat-nuget
-build_property.ProjectDir = /Users/shakedkarta/Documents/Code/goat/src/
+build_property.ProjectDir = /Users/shakedkarta/Documents/GitHub/DockerScanAllRound/src/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
